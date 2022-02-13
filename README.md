@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [endder](@endder-admin), check my projects @ https://github.com/orgs/endder-com/repositories
+- 👋 Hi, I’m endder, check my projects @ https://github.com/orgs/endder-com/repositories
 - 👀 I’m interested in Awesome projects
 - 🌱 I’m currently learning  React, Python, AWS
 - 💞️ I’m looking to collaborate on  JavaScript Full-stack (React, Next, Angular, Node, ...)
